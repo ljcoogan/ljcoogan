@@ -1,6 +1,6 @@
 ## Hi there, I'm Liam!
 
-I'm a highly motivated third-year **Computer Science** student at **Trinity College Dublin**, proficient in **Java**, **TypeScript**, **Spring Boot**, **React**, and **Express**. I'm looking for a summer job to gain experience and use my skillset. Feel free to reach out at my [LinkedIn](https://linkedin.com/in/ljcoogan).
+I'm a third-year **Computer Science** student at **Trinity College Dublin**, proficient in **Java**, **TypeScript**, **Spring Boot**, **React**, and **Express**. I'm looking for a summer job to gain experience and use my skillset. Feel free to reach out at my [LinkedIn](https://linkedin.com/in/ljcoogan).
 
 Some projects you can find on this profile are:
 
