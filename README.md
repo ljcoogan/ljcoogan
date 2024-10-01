@@ -11,7 +11,7 @@ A Discord bot written with **TypeScript** and **Node.js** for Trinity's Science 
 This is a work-in-progress web game using a **Spring backend** (Spring Boot, Spring Web, Spring Data JPA, Spring Security, etc.), and a **React frontend** (Typescript & Tailwind CSS). The game provides "knights and knaves" puzzles, where knights always tell the truth, knaves always lie, and the player must determine which is which by making logical deductions from provided dialogue.
 
 ### 3books
-This is an app that allows users to create a sharable list of their favourite books, built using the MERN stack (MongoDB, Express, React, Node.js). This app is functional, but I have put work on it on hold to prioritise my studies and other projects.
+This is an app that allows users to create a sharable list of their favourite books, built using the MERN stack (MongoDB, Express, React, Node.js). This app is partly functional, but I have put work on it on hold to prioritise my studies and other projects.
 
 ### Bing Wallpaper
 This is a Bash script I made for my Ubuntu desktop that downloads the latest Bing wallpaper every day, and sets it as the background for the GNOME desktop environment.
