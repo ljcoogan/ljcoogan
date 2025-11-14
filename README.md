@@ -1,6 +1,6 @@
 ## Hi there, I'm Liam!
 
-I'm a third-year **Computer Science** student at **Trinity College Dublin**, proficient in **Java**, **Go**, and **TypeScript**. I'm looking for an internship next year to gain experience and apply my skillset. Feel free to reach out at my [LinkedIn](https://linkedin.com/in/ljcoogan).
+I'm a fourth-year **Computer Science** student at **Trinity College Dublin**, proficient in **Python**, **Java**, and **TypeScript**. Feel free to reach out at my [LinkedIn](https://linkedin.com/in/ljcoogan).
 
 Some projects you can find on this profile are:
 
